@@ -1,0 +1,9 @@
+.yui-skin-sam .yui-calendar td.calcell a {
+    color: #FFFFFF !important; /* White text for normal dates */
+}
+
+.yui-skin-sam .yui-calendar td.calcell.selected, 
+.yui-skin-sam .yui-calendar td.calcell.selected a {
+    background-color: #FFFF00 !important; /* Yellow background for selected dates */
+    color: #000000 !important; /* Black text for selected dates for readability */
+}
