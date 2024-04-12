@@ -8,7 +8,6 @@
     color: #000000 !important; /* Black text */
 }
 
-.yui-skin-sam .yui-calendar .calweekdayrow th
-{
-    color: #FFFFFF !important; /* White text */
+.yui-skin-sam .yui-calendar .calweekdaycell {
+  color: #fff
 }
