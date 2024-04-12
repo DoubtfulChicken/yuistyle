@@ -4,6 +4,9 @@
 
 .yui-skin-sam .yui-calendar td.calcell.selected, 
 .yui-skin-sam .yui-calendar td.calcell.selected a {
-    background-color: #FFFF00 !important; /* Yellow background for selected dates */
-    color: #000000 !important; /* Black text for selected dates for readability */
+    background-color: #FFFF00 !important; /* Yellow background */
+    color: #000000 !important; /* Black text */
 }
+
+.yui-skin-sam .yui-calendar .calweekdayrow
+{background-color:#0f0a30}
