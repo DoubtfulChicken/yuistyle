@@ -9,5 +9,6 @@
 }
 
 .yui-skin-sam .yui-calendar .calweekdaycell {
-  color: #fff
+  color: #fff;
+border: 1px solid #444;
 }
