@@ -8,8 +8,10 @@
     color: #000000 !important; /* Black text */
 }
 
-.yui-skin-sam .yui-calendar .calweekdaycell {
-    color: #fff !important;
-    font-weight: bold !important;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2) !important;
+html .yui-skin-sam .yui-calendar .calweekdayrow th {
+  color: #fff !important;
+  border: 1px solid #444 !important;
+  font-weight: bold !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2) !important;
 }
+
